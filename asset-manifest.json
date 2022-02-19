@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vegetables-in-season/static/css/main.768337ad.css",
+    "main.js": "/Vegetables-in-season/static/js/main.11658172.js",
+    "static/js/787.f34337b0.chunk.js": "/Vegetables-in-season/static/js/787.f34337b0.chunk.js",
+    "index.html": "/Vegetables-in-season/index.html",
+    "main.768337ad.css.map": "/Vegetables-in-season/static/css/main.768337ad.css.map",
+    "main.11658172.js.map": "/Vegetables-in-season/static/js/main.11658172.js.map",
+    "787.f34337b0.chunk.js.map": "/Vegetables-in-season/static/js/787.f34337b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768337ad.css",
+    "static/js/main.11658172.js"
+  ]
+}
