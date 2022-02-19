@@ -4,7 +4,6 @@ import SearchName from "../components/SearchName";
 import Scroll from "../components/Scrollcopy";
 import {library} from '../library';
 import React, {Component} from 'react';
-import { render } from '@testing-library/react';
 
 
 class App extends Component {
@@ -33,9 +32,6 @@ class App extends Component {
     // si pongo season no funciona pero con type si, se puede hacer mas limpio? check box
 
 
-    const onDropdownChange =(value)=>{
-      console.log(value)
-    }
 
     return(
       <div className='tc'>
