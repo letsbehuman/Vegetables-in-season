@@ -1,15 +1,38 @@
 {
   "files": {
-    "main.css": "/Vegetables-in-season/static/css/main.768337ad.css",
-    "main.js": "/Vegetables-in-season/static/js/main.11658172.js",
+    "main.css": "/Vegetables-in-season/static/css/main.dba45517.css",
+    "main.js": "/Vegetables-in-season/static/js/main.68594016.js",
     "static/js/787.f34337b0.chunk.js": "/Vegetables-in-season/static/js/787.f34337b0.chunk.js",
+    "static/media/Onions.png": "/Vegetables-in-season/static/media/Onions.544c5f00c26dff4879c2.png",
+    "static/media/Aubergines.png": "/Vegetables-in-season/static/media/Aubergines.f44909a75c9eb6de2bcd.png",
+    "static/media/Beetroot.png": "/Vegetables-in-season/static/media/Beetroot.9ced5434591739f27bcf.png",
+    "static/media/Cabbage.png": "/Vegetables-in-season/static/media/Cabbage.b4736542d9e3469e353c.png",
+    "static/media/Carrots.png": "/Vegetables-in-season/static/media/Carrots.d244a453e1d31249e77b.png",
+    "static/media/Cucumbers.png": "/Vegetables-in-season/static/media/Cucumbers.e104816be88de76e4737.png",
+    "static/media/Broccoli.png": "/Vegetables-in-season/static/media/Broccoli.1e2929182ef75f959598.png",
+    "static/media/Lettuce.png": "/Vegetables-in-season/static/media/Lettuce.e422abe24d0568421c78.png",
+    "static/media/Spinach.png": "/Vegetables-in-season/static/media/Spinach.7e718a247f1a24406124.png",
+    "static/media/Cauliflower.png": "/Vegetables-in-season/static/media/Cauliflower.1a5e3cc89562809e9cdc.png",
+    "static/media/Peas.png": "/Vegetables-in-season/static/media/Peas.7a6c8ea3383239289702.png",
+    "static/media/Potatoes.png": "/Vegetables-in-season/static/media/Potatoes.b8d22ff93b35da4c7091.png",
+    "static/media/Radishes.png": "/Vegetables-in-season/static/media/Radishes.bf1e34e3e5b4e765cb58.png",
+    "static/media/Runner beans.png": "/Vegetables-in-season/static/media/Runner beans.89af3ede7e500e6cbb2e.png",
+    "static/media/Courgettes.png": "/Vegetables-in-season/static/media/Courgettes.815f86051937d9faee49.png",
+    "static/media/Sweetcorn.png": "/Vegetables-in-season/static/media/Sweetcorn.2dc5edcf4928cc5fedc9.png",
+    "static/media/Tomatoes.png": "/Vegetables-in-season/static/media/Tomatoes.8e6892cac6d7a0450483.png",
+    "static/media/Shallots.png": "/Vegetables-in-season/static/media/Shallots.ab7275a6881970183141.png",
+    "static/media/Garlic.png": "/Vegetables-in-season/static/media/Garlic.8c8c9e46f2055f3349c5.png",
+    "static/media/Turnips.png": "/Vegetables-in-season/static/media/Turnips.40ade1c4ab20ccd0a67c.png",
+    "static/media/Lentil.png": "/Vegetables-in-season/static/media/Lentil.b4c45b42e887960c4327.png",
+    "static/media/Pumpkins.png": "/Vegetables-in-season/static/media/Pumpkins.762dc9fc15279aa6c2ff.png",
+    "static/media/Garbanzos.png": "/Vegetables-in-season/static/media/Garbanzos.c9fc814eacec4ef693cd.png",
     "index.html": "/Vegetables-in-season/index.html",
-    "main.768337ad.css.map": "/Vegetables-in-season/static/css/main.768337ad.css.map",
-    "main.11658172.js.map": "/Vegetables-in-season/static/js/main.11658172.js.map",
+    "main.dba45517.css.map": "/Vegetables-in-season/static/css/main.dba45517.css.map",
+    "main.68594016.js.map": "/Vegetables-in-season/static/js/main.68594016.js.map",
     "787.f34337b0.chunk.js.map": "/Vegetables-in-season/static/js/787.f34337b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.768337ad.css",
-    "static/js/main.11658172.js"
+    "static/css/main.dba45517.css",
+    "static/js/main.68594016.js"
   ]
 }
