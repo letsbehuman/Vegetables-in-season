@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
 const Card = ({ name, type, season: seasons }) => {
   return (
     <div className="tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5">
       <img
-        alt="Veggie image"
+        alt="Veggie"
         src={require(`../../public/vegetables/${name}.png`)}
         height={150}
       />

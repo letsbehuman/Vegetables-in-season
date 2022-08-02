@@ -6,6 +6,8 @@ constructor(){
     super()
     this.state= {}
     this.onScroll = this.onScroll.bind(this) 
+    shadowTop = document.querySelector('.shadow--top'),
+    shadowBottom = document.querySelector('.shadow--bottom'),
 }
 onScroll() {
     var currentScroll = window.scrollTop / (contentScrollHeight);
@@ -17,8 +19,6 @@ render(){
     const shadowScroll=()=>{
 var content = document.querySelector('.content'),
     wrapper = document.querySelector('.wrapper'),
-    shadowTop = document.querySelector('.shadow--top'),
-    shadowBottom = document.querySelector('.shadow--bottom'),
     contentScrollHeight = content.scrollHeight - wrapper.offsetHeight;
 
 content.addEventListener('scroll', this.onScroll);

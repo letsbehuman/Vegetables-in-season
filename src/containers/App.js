@@ -1,17 +1,16 @@
-import "./App.css";
-import CardList from "../components/CardList";
-import SearchName from "../components/SearchName";
-import Scroll from "../components/Scrollcopy";
-import { library } from "../library";
-import React, { Component } from "react";
-import image from "../components/Aubergines.png";
+import './App.css';
+import CardList from '../components/CardList';
+import SearchName from '../components/SearchName';
+import Scroll from '../components/Scrollcopy';
+import { library } from '../library';
+import React, { Component } from 'react';
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
       vegetable: [],
-      searchfield: "",
+      searchfield: '',
     };
   }
 
@@ -36,7 +35,7 @@ class App extends Component {
 
     return (
       <div className="tc">
-        <h1 style={{ fontSize: "4rem" }}>Vegetables</h1>
+        <h1 style={{ fontSize: '4.2rem' }}>Vegetables</h1>
         <SearchName searchChange={this.onSearchChange} />
         <Scroll>
           <CardList vegetables={filterVegetables} />
